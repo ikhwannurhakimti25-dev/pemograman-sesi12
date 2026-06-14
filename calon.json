@@ -1,0 +1,20 @@
+[
+    {
+        "id": "CL001",
+        "nama": "Ikhwan Nurhakim",
+        "visi": "Meningkatkan kualitas organisasi mahasiswa",
+        "jumlah_suara": 1
+    },
+    {
+        "id": "CL002",
+        "nama": "Sultan",
+        "visi": "Meningkatkan kegiatan akademik dan non akademik",
+        "jumlah_suara": 1
+    },
+    {
+        "id": "CL003",
+        "nama": "Gian",
+        "visi": "Membangun organisasi yang aktif dan inovatif",
+        "jumlah_suara": 0
+    }
+]

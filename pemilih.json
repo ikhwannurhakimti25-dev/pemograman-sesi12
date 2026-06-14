@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PM001",
+        "nama": "Ikhwan Nurhakim",
+        "jurusan": "TI",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM002",
+        "nama": "Yosa",
+        "jurusan": "TI",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM003",
+        "nama": "Sholah",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM004",
+        "nama": "Sultan",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM005",
+        "nama": "Gian",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    }
+]
